@@ -1,0 +1,14 @@
+===========
+ERROR CODES
+===========
+
+CommandError => 1
+
+ArgsError => 2
+
+FolderExistsError => 3
+FileExistsError => 4
+
+FolderNotFoundError => 5
+FileNotFoundError => 6
+PathNotFoundError => 7
