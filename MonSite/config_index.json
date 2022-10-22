@@ -1,0 +1,8 @@
+{
+    "mybutton": {
+        "type": "PYTERNET.BUTTON",
+        "text": "Mon bouton",
+        "link": false,
+        "class": "customButton"
+    }
+}
